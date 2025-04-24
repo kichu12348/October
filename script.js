@@ -1,7 +1,7 @@
 // Lyrics array with timing, duration, text, and animation styles
 const lyrics = [
-  { time: 17.46, duration: 4.5, text: "Smoking cigarettes on the roof", animation: "fadeIn" },
-  { time: 24.20, duration: 4.5, text: "You look so pretty and I love this view", animation: "fadeIn" },
+  { time: 17.46, duration: 4, text: "Smoking cigarettes on the roof", animation: "fadeIn" },
+  { time: 24.20, duration: 4, text: "You look so pretty and I love this view", animation: "fadeIn" },
   
   { time: 31.37, duration: 3, text: "We fell in love in October", animation: "slideUp" },
   { time: 36.67, duration: 3, text: "That's why I love fall", animation: "fadeIn" },
