@@ -88,7 +88,7 @@ createFallingLeaves();
 
 // Set up click/touch event
 document.body.addEventListener('click', togglePlayPause);
-document.body.addEventListener('touchstart', togglePlayPause);
+// document.body.addEventListener('touchstart', togglePlayPause);
 document.addEventListener('keydown', (event) => {
     if (event.code === 'Space') {
         event.preventDefault(); // Prevent page scrolling
