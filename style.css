@@ -19,7 +19,7 @@ body {
     height: 100svh;
     width: 100vw;
     overflow: hidden;
-    background: linear-gradient(180deg, var(--autumn-red) 0%, var(--charcoal-black) 100%);
+    background: linear-gradient(180deg, var(--autumn-red) 0%, #000000 100%);
     display: flex;
     justify-content: center;
     align-items: center;
